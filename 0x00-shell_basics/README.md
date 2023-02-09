@@ -7,3 +7,4 @@
 7. mkdir is the command used to creat a new directory
 8. mv command is used to move files
 9. rm command is used to deletr file
+10. rm -r command is used to delete non-empty directories
