@@ -11,3 +11,4 @@
 11. cd .. changes the working directories from the current to the previous
 12. ls is for listing files, . is for current directory .. is for parent directory /NAME OF DIRECTORY is to specify a directory
 13. file command recognizes th type of file and lists or prints it
+14. ln command is used to create a link between files. ln -s creates a symbolic link
