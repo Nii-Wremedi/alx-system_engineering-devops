@@ -16,3 +16,4 @@
 16. [[]] to specify option prefered
 17. rm to plus wildcard plus option to selectively delete
 18. mkdir -p the intoduction of -p helps create multiple directory when a backslash in put inbetween names
+19. ls -amvp 
