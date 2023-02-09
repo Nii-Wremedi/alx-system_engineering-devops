@@ -7,3 +7,4 @@
 7. 6-multiple permissions
 8. 7-everybody
 9. 8-James Bond
+10. rwx 7
