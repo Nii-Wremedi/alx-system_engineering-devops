@@ -15,3 +15,4 @@
 15. cp is used to copy, * is the symbol for wildcard used to copy all files -un is used to specify files that did not exist in the parent directory
 16. [[]] to specify option prefered
 17. rm to plus wildcard plus option to selectively delete
+18. mkdir -p the intoduction of -p helps create multiple directory when a backslash in put inbetween names
