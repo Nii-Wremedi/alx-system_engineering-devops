@@ -1,1 +1,2 @@
 1. su - the superuser command is used to switch users
+2. whoami is the command that indentifies the particular user navigating the shell
