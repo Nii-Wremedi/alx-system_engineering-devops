@@ -9,3 +9,4 @@
 9. rm command is used to deletr file
 10. rm -r command is used to delete non-empty directories
 11. cd .. changes the working directories from the current to the previous
+12. ls is for listing files, . is for current directory .. is for parent directory /NAME OF DIRECTORY is to specify a directory
