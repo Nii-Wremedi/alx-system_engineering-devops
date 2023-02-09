@@ -5,3 +5,4 @@
 5. touch is used to creat files
 6. chmod u+x fileName is used to make stated file executable
 7. 6-multiple permissions
+8. 7-everybody
