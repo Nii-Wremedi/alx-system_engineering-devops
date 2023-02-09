@@ -6,3 +6,4 @@
 6. ls -lan command is used to list all files, including hidden files numerically
 7. mkdir is the command used to creat a new directory
 8. mv command is used to move files
+9. rm command is used to deletr file
