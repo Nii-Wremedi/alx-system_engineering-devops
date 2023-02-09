@@ -14,3 +14,4 @@
 14. ln command is used to create a link between files. ln -s creates a symbolic link
 15. cp is used to copy, * is the symbol for wildcard used to copy all files -un is used to specify files that did not exist in the parent directory
 16. [[]] to specify option prefered
+17. rm to plus wildcard plus option to selectively delete
