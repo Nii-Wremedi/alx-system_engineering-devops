@@ -9,4 +9,5 @@
 9. 8-James Bond
 10. rwx 7
 11. 10-mirror permissions
-12 11-directories permissions
+12. 11-directories permissions
+13. 12-directory permissions
